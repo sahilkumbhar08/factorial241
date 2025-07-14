@@ -1,0 +1,5 @@
+{
+  "name": "PDF Annotation Studio",
+  "description": "An application to upload, view, and annotate technical PDF drawings. Users can add text, lines, and circles, and then save the annotated PDF.",
+  "requestFramePermissions": []
+}
